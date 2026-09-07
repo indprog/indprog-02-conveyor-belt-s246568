@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "indprog"
+assignment: "02-conveyor-belt"
+owner:
+  username: "s246568"
+  id: 253249487
+  accepted_at: "2026-09-07T11:06:43Z"
+source:
+  owner: "indprog"
+  owner_id: 316953525
+  repo: "python-template"
+  branch: "main"
